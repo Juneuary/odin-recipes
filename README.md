@@ -1,6 +1,9 @@
 # odin-recipes
 A website with recipes 
 
+This displays working knwoledge in HTML and CSS.
+Displays ability to link several links from one page 
+
 images come from:
 
 "https://jewish.momsandcrafters.com/wp-content/uploads/2019/04/passover-salt-water-dish-6-720x405.jpg.webp"
