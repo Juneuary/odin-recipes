@@ -1,5 +1,5 @@
 # odin-recipes
-A website with recipes 
+A website with recipes for struggling and depressed
 
 This displays working knwoledge in HTML and CSS.
 Displays ability to link several links from one page 
