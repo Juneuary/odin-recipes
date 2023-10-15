@@ -1,0 +1,18 @@
+/* This is the CSS file for the home page of the odin-recipes repository  */
+
+
+.title{
+   background-color: rgb(75, 87, 189);
+   color: white;
+   font-weight: bold
+}
+
+.ingredients,
+.steps{
+    color:cadetblue;
+    font-family: "Times New Roman","Sans Serif";
+    font-size: 16px;
+}
+
+
+
