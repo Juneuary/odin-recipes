@@ -4,7 +4,8 @@
 .title{
    background-color: rgb(75, 87, 189);
    color: white;
-   font-weight: bold
+   font-weight: bold;
+ 
 }
 
 .ingredients,
@@ -19,10 +20,23 @@
     border: solid;
     border-style:5px;
     border-color:darkslateblue;
-    padding:50px;
+    padding:20px;
     color: rgb(23, 78, 69);
     background-color: rgb(150, 174, 219);
     opacity: 0.7;
+    text-align: left;
+}
+.stepsby1{
+    width:300px;
+    height:400px;
+    border: solid;
+    border-style:5px;
+    border-color:darkslateblue;
+    padding:20px;
+    color: rgb(23, 78, 69);
+    background-color: rgb(150, 174, 219);
+    opacity: 0.7;
+    text-align: left;
 }
 .titlebox{
     
@@ -40,9 +54,6 @@
     width: 500px
     
 }
-
-
-
 
 .container-img{
     display:flex;
@@ -69,9 +80,7 @@
     border:5px;
     border-color: darkslateblue;
     border-style: solid;
+    color: rgb(23, 78, 69);
 }
 
 
-.list-ilb{
-    display:inline-block
-}
