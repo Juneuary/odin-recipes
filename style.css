@@ -9,10 +9,69 @@
 
 .ingredients,
 .steps{
-    color:cadetblue;
+    color:rgb(23, 78, 69);
     font-family: "Times New Roman","Sans Serif";
     font-size: 16px;
+}
+.stepsby{
+    width:300px;
+    height:300px;
+    border: solid;
+    border-style:5px;
+    border-color:darkslateblue;
+    padding:50px;
+    color: rgb(23, 78, 69);
+    background-color: rgb(150, 174, 219);
+    opacity: 0.7;
+}
+.titlebox{
+    
+    margin: bottom 16px;
+    margin-top: 10px;
+    text-align:center;
+    padding: 16px;
+    width:500px
+}
+
+.box{
+    background-color: rgba(57, 211, 198, 0.726);
+    padding:20px;
+    color:rgb(255, 255, 255);
+    width: 500px
+    
 }
 
 
 
+
+.container-img{
+    display:flex;
+    background-color:cornflowerblue;
+    padding: 20px;
+    margin: 5px;
+    border:2px;
+    border-color: darkslateblue;
+    border-style: solid;
+    padding-top:10px;
+    padding-left:10px;
+}
+.text{
+    padding: 20px
+}
+
+.ingredients-container{
+    background-color:rgb(150, 174, 219);
+    opacity: 0.7;
+    padding: 20px;
+    margin: 5px;
+    width:200px;
+    height:200px;;
+    border:5px;
+    border-color: darkslateblue;
+    border-style: solid;
+}
+
+
+.list-ilb{
+    display:inline-block
+}
